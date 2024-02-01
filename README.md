@@ -1,2 +1,2 @@
 # pagina-unity
-Iniciando na área, tentei recriar a página da unity.
+A primeira página web que eu fiz, como eu estava começando precisava de algo para me basear, então decidi recriar a página da unity
